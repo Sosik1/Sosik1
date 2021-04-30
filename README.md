@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sosik1
 - 👀 I’m interested in Web Development, Finance, Blockchain Development and Embedded Programming
+- 💻 Technologies I'm familliar with: C++, JavaScript, HTML5, CSS3, Solidity and more...
 - 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on some cool projects.
 - 📫 How to reach me: rafal@nonq.com

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sosik1
-- 👀 I’m interested in Web Development, Electronics and Embedded Programming
-- 🌱 I’m currently learning Embedded Programming.
+- 👀 I’m interested in Web Development, Finance, Blockchain Development and Embedded Programming
+- 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on some cool projects.
 - 📫 How to reach me: rafal@nonq.com
 

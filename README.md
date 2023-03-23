@@ -3,7 +3,6 @@
 - 💻 Technologies I'm familliar with: C++, JavaScript, HTML5, CSS3, Solidity and more...
 - 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on some cool projects.
-- 📫 How to reach me: rafal@nonq.com
 
 <!---
 Sosik1/Sosik1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
